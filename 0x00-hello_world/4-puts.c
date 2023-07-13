@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
-*main - entry poi
-*return: always 0 (success)
+ * main - A program that prints a line with puts functio
+n
+ * Return: 0 (Success)
 */
 
 int main(void)

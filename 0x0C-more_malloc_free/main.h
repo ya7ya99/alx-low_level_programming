@@ -1,7 +1,9 @@
 #ifndef FILE_MAIN
 #define FILE_MAIN
 
+
 int _putchar(char c);
+void *malloc_checked(unsigned int b);
 char *_memset(char *s, char b, unsigned int n);
 char *_memcpy(char *dest, char *src, unsigned int n);
 char *_strchr(char *s, char c);
